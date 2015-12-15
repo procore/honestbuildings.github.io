@@ -1,4 +1,4 @@
 honestbuildings.github.io
 ==================
 
-Honest Buildings Huddle
+The Honest Buildings Huddle
